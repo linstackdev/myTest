@@ -1,0 +1,14 @@
+# Ignore your private and public keys if they are in this folder
+testkey
+testkey.pub
+
+
+# Ignore system junk files
+Thumbs.db
+.DS_Store
+
+# Ignore specific folders (add a trailing slash)
+xyz/
+
+# Ignore this file
+test.md
